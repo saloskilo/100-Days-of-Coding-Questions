@@ -24,8 +24,19 @@ if (age == 2) {
 // - Make a array of your three favorite fruits and call it favorite_fruits.
 
 // - Write five if statements. Each should check whether a certain kind of fruit is in your array. If the fruit is in your array, the if block should print a statement, such as You really like bananas!
-
+var favorite_fruits = ["apple", "banana", "orange"];
+if (favorite_fruits.includes("banana")) {
+  console.log("You really like bananas");
+}
 // **Q30** - Hello Admin: Make a array of five or more usernames, including the name 'admin'. Imagine you are writing code that will print a greeting to each user after they log in to a website. Loop through the array, and print a greeting to each user:
 // - If the username is 'admin', print a special greeting, such as Hello admin, would you like to see a status report?
 
 // - Otherwise, print a generic greeting, such as Hello Eric, thank you for logging in again.
+var usernames = ["admin", "eric", "ali", "wahab", "salman"];
+usernames.forEach((usernames) => {
+  if (usernames.includes("admin")) {
+    console.log("Hello Admin, would you like to see a status report?");
+  } else {
+    console.log(`Hello ${usernames} thank you for logging in again.`);
+  }
+});
