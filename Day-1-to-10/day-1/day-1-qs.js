@@ -12,4 +12,3 @@ var person2="Salman Ali";
 console.log(person2.toLowerCase());
 console.log(person2.toUpperCase());
 console.log(person2.charAt(0).toUpperCase()+person2.slice(1).toLowerCase());
-
