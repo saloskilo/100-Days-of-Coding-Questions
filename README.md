@@ -458,6 +458,19 @@ Call your function with at least three city-country pairs, and print the value t
 **Question 81:** Iterating Over Object Properties: Write a function that takes an object as an argument and logs all of its properties and values.
 
 ...
+
+### Day 28
+
+**Date**: [2024-06-15]
+
+**Question 82:** Find the Length of a String: Write a function that takes a string as an argument and returns the number of characters in the string.
+
+**Question 83:** Converting to Upper and Lower Case: Create a function that takes a string, converts it to uppercase, then to lowercase, and logs both.
+
+**Question 84:** Replacing Text in a String: Write a function that takes a sentence and replaces all instances of the word "JavaScript" with "TypeScript".
+
+
+...
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
