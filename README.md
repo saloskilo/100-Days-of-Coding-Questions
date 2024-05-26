@@ -348,6 +348,71 @@ Call your function with at least three city-country pairs, and print the value t
 **Q54** - Making Flexible Object Keys: Learn how to set up a list where you can change the name of each section based on what you need at that moment, like adjusting labels based on user choices.
 
 ...
+
+### Day 19
+
+**Date**: [2024-06-6]
+
+**Q55** - Double Numbers in an Array: Make a list of numbers. Then, use a trick to make a new list where each number is twice its original value.
+
+**Q56** - Keep Only Strings: Given a mix of different types of items, make a new list that has only the words.
+
+**Q57** - Find the Average Grade: Given a list of grades, calculate the average grade.
+...
+
+### Day 20
+
+**Date**: [2024-06-7]
+
+**Q58** - Write a simple program that can take lots of scores and find their average.
+
+**Q59** - Add a Special Number: Make a program that creates custom adders. These adders can add a specific number to any other number you give them later.
+
+**Q60** - Self-Running User Profile: Create a quick, self-setup profile for a user that can tell you the user's name and age.
+...
+
+### Day 21
+
+**Date**: [2024-06-8]
+
+# Day-21 of `100-Days-Of-Code` Challenge
+
+**Q61** - Making Enums for Vehicles: Let's create categories for vehicles like cars, trucks, and motorcycles using enums, and show one example.
+
+**Q62** - Making a Student Template: Create a blueprint for student information, including their name, age, and the classes they're taking, and then fill in this blueprint with an example student.
+
+**Q63** - Shape Shifter: Write a program that can describe either a circle or a rectangle using a special type alias, including properties unique to each shape.
+
+...
+
+### Day 22
+
+**Date**: [2024-06-9]
+
+
+
+...
+
+### Day 23
+
+**Date**: [2024-06-10]
+
+
+
+...
+
+### Day 18
+
+**Date**: [2024-06-5]
+
+
+...
+
+### Day 18
+
+**Date**: [2024-06-5]
+
+...
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
