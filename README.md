@@ -389,7 +389,11 @@ Call your function with at least three city-country pairs, and print the value t
 
 **Date**: [2024-06-9]
 
+**Q64** - Combine Strings and Numbers: Write a function that merges a piece of text with a number. For example, if provided with "Age: " and 30, it should give back "Age: 30".
 
+**Q65** - Determine the Remainder: Make a function that gets two numbers and shows the leftover from dividing them using the `%` sign. For example, `remainder(5, 2)` should give `1`.
+
+**Q66** - Logical AND Verification: Create a function that checks two boolean (true or false) values. It should only say `true` if both are true, using the `&&` operator. For instance, `checkBothTrue(true, false)` should be `false`.
 
 ...
 
@@ -398,13 +402,24 @@ Call your function with at least three city-country pairs, and print the value t
 **Date**: [2024-06-10]
 
 
+**Q67** - Arithmetic with Mixed Types: Write a function that takes two parameters: a number and a string that represents a number (e.g., "5"). Return their sum as a number.
+
+**Q68** - Multiplying Decimals: Create a function that accepts two decimal numbers and returns their product. Round the result to two decimal places.
+
+**Q69** - Dividing and Finding the Remainder: Write a function that divides two numbers and returns both the quotient and the remainder. Use an object to return both values.
 
 ...
 
-### Day 18
+### Day 24
 
-**Date**: [2024-06-5]
+**Date**: [2024-06-11]
 
+
+**Question 70:** Understanding let in Loops: Write a function that uses a loop with the let keyword to print numbers from 1 to 5. Explain how the let keyword affects the visibility of the loop variable.
+
+**Question 71:** Compare `let` and `const`: Create two examples where `let` allows reassignment but `const` does not. Try to reassign a `const`-declared variable and catch the error.
+
+**Question 72:** Block Scope with `let` and `const`: Demonstrate block scope by creating a code block with `{}` that uses both `let` and `const`. Show how variables declared inside the block are not accessible outside of it.
 
 ...
 
