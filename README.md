@@ -435,7 +435,7 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
-### Day 25
+### Day 26
 
 **Date**: [2024-06-13]
 
@@ -444,6 +444,18 @@ Call your function with at least three city-country pairs, and print the value t
 **Question 77:** Default Parameters: Write a function that greets a user. It should take the user's name as a parameter and say hello. If no name is given, it should greet an anonymous user.
 
 **Question 78:** Function Expressions vs. Function Declarations: Compare function expressions and declarations by creating one of each that performs the same task, such as squaring a number.
+
+...
+
+### Day 27
+
+**Date**: [2024-06-14]
+
+**Question 79:** Creating and Accessing Object Properties: Construct an object representing a car with properties for make, model, and year. Then, show how you can access the model property of the car.
+
+**Question 80:** Updating Object Properties: Add a property named `color` to the existing car object, and then update the `year` property to `2021`. Show how to perform these operations.
+
+**Question 81:** Iterating Over Object Properties: Write a function that takes an object as an argument and logs all of its properties and values.
 
 ...
 ## How to Contribute
