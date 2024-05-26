@@ -427,14 +427,23 @@ Call your function with at least three city-country pairs, and print the value t
 
 **Date**: [2024-06-12]
 
-# Day-25 of `100-Days-Of-Code` Challenge
-
 **Question 73:** Assigning and Updating Variables: Create a function where you declare a variable using let and assign an initial value. Then, update its value within the same function and log both the initial and updated values.
 
 **Question 74:** Swapping Variables: Demonstrate how to swap the values of two variables. Start with variables `a = 5` and `b = 10`, then swap their values so that `a` becomes `10` and `b` becomes `5`.
 
 **Question 75:** Compound Assignment Operators: Use compound assignment operators to simplify arithmetic operations. Start with `x = 4` and perform a series of operations (addition, subtraction, multiplication, division) on `x` using compound operators.
 
+...
+
+### Day 25
+
+**Date**: [2024-06-13]
+
+**Question 76:** Function Parameters and Return Values: Create a function that takes two numbers as parameters, adds them together, and returns the result. Show how you can call this function and log the result.
+
+**Question 77:** Default Parameters: Write a function that greets a user. It should take the user's name as a parameter and say hello. If no name is given, it should greet an anonymous user.
+
+**Question 78:** Function Expressions vs. Function Declarations: Compare function expressions and declarations by creating one of each that performs the same task, such as squaring a number.
 
 ...
 ## How to Contribute
