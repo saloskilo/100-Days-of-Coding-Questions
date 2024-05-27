@@ -521,6 +521,17 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 33
+
+**Date**: [2024-06-20]
+
+**Question 97:** Write a function that returns the current date in the format "DD-MM-YYYY".
+
+**Question 98:** Create a JavaScript snippet that calculates and logs how many days are left until New Year.
+
+**Question 99:** Generate a date object representing your next birthday and log it to the console.
+
+...
 
 ## How to Contribute
 
