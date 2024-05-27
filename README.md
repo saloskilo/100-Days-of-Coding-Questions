@@ -495,6 +495,22 @@ Call your function with at least three city-country pairs, and print the value t
 
 **Question 90:** Generating Random Numbers: Write a function that generates a random number between 1 and 10, inclusive.
 
+...
+
+### Day 31
+
+**Date**: [2024-06-18]
+
+**Question 91:** Create an array of your three favorite fruits and add a new fruit to the end of the array.
+
+**Question 92:** Write a function to remove the last element from an array and return the removed element.
+
+**Question 93:** Find the index of "Banana" in an array of fruits and replace it with "Mango".
+
+...
+
+
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
