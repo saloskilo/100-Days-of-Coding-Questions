@@ -533,6 +533,18 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 34
+
+**Date**: [2024-06-21]
+
+**Question 100:** Use the JavaScript Math object to find the square root of 144.
+
+**Question 101:** Generate a random integer between 1 and 10.
+
+**Question 102:** Calculate and log the absolute difference between the number -5 and 5.
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
