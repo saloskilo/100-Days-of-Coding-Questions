@@ -545,6 +545,18 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 35
+
+**Date**: [2024-06-22]
+
+**Question 103:** Write a function that returns a random boolean value, true or false.
+
+**Question 104:** Create a function that generates a random hexadecimal color code.
+
+**Question 105:** Simulate a dice roll using JavaScript and return a random integer between 1 and 6.
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
