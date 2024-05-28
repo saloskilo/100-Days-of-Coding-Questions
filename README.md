@@ -580,6 +580,19 @@ Call your function with at least three city-country pairs, and print the value t
 **Question 111:** Use an if-else-if chain to categorize a person's age group (child, teenager, adult).
 
 ...
+
+### Day 38
+
+**Date**: [2024-06-25]
+
+**Question 112:** Create a Map that stores the names of countries as keys and their capitals as values. Add three countries to the Map.
+
+**Question 113:** Write a function that checks if a Map contains a key for "Canada" and logs the capital if it exists.
+
+**Question 114:** Iterate over a Map of student IDs and names, and log each pair to the console.
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
