@@ -557,6 +557,19 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 36
+
+**Date**: [2024-06-23]
+
+**Question 106:** Determine if a given year is a leap year using comparison operators.
+
+**Question 107:** Write a condition using logical operators that checks if a number is divisible by both 2 and 3.
+
+**Question 108:** Compare two strings to check if they are identical, ignoring case sensitivity.
+
+...
+
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
