@@ -593,6 +593,19 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 39
+
+**Date**: [2024-06-26]
+
+**Question 115:** Use a switch statement to log the days of the week based on a number (1-7).
+
+**Question 116:** Create a switch case that matches several cases to the same code block, representing seasons.
+
+**Question 117:** Implement a switch statement that evaluates an expression and uses the default case if none of the cases match.
+
+...
+
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
