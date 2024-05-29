@@ -654,6 +654,16 @@ Call your function with at least three city-country pairs, and print the value t
 
 ... 
 
+### Day 44
+
+**Date**: [2024-07-1]
+
+**Question 130:** Explain how to export a function from one JavaScript file and import it into another file.
+
+**Question 131:** Create two modules; one that exports a class, and another that imports the class and creates an instance.
+
+**Question 132:** Discuss the difference between default and named exports in JavaScript modules.
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
