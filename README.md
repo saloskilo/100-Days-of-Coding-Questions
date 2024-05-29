@@ -629,6 +629,19 @@ Call your function with at least three city-country pairs, and print the value t
 **Question 123:** Create a loop that iterates through a string and stops when it finds the first vowel.
 
 ...
+
+### Day 42
+
+**Date**: [2024-06-29]
+
+**Question 124:** Create a function inside an object that returns the object's own name property using the this keyword.
+
+**Question 125:** Modify a method in an object to use the this keyword to access another property in the same object.
+
+**Question 126:** Explain how the this keyword changes its value when used inside a nested function within a method.
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
