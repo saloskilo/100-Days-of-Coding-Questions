@@ -664,6 +664,22 @@ Call your function with at least three city-country pairs, and print the value t
 
 **Question 132:** Discuss the difference between default and named exports in JavaScript modules.
 
+...
+
+### Day 45
+
+**Date**: [2024-07-2]
+
+**Question 133:** Write a JavaScript object and convert it into a JSON string.
+
+**Question 134:** Take a JSON string and parse it into a JavaScript object.
+
+**Question 135:** Explain how you can format a JSON string with proper indentation for readability.
+
+...
+
+
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
