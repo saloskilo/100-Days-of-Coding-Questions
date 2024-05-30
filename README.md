@@ -678,7 +678,17 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 46
 
+**Date**: [2024-07-3]
+
+**Question 136:** Use console.log() to debug and track the value of a variable inside a loop.
+
+**Question 137:** Implement a try-catch block to handle potential errors in a block of code.
+
+**Question 138:** Describe how to use breakpoints in browser developer tools to debug JavaScript code.
+
+...
 
 ## How to Contribute
 
