@@ -690,6 +690,16 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 47
+
+**Date**: [2024-07-4]
+
+**Question 139:** List three reserved words in JavaScript and create a valid use case for each.
+
+**Question 140:** Explain the error that occurs when trying to use a reserved word as a variable name.
+
+**Question 141:** Discuss the significance of the await reserved word in asynchronous JavaScript.
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
