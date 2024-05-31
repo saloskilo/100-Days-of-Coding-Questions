@@ -703,7 +703,7 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
-### Day 4
+### Day 48
 
 **Date**: [2024-07-5]
 
