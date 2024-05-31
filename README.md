@@ -700,6 +700,21 @@ Call your function with at least three city-country pairs, and print the value t
 
 **Question 141:** Discuss the significance of the await reserved word in asynchronous JavaScript.
 
+
+...
+
+### Day 4
+
+**Date**: [2024-07-5]
+
+**Question 142:** Create a Promise that resolves with "Hello, World!" after 2 seconds.
+
+**Question 143:** Show how to use the .then() and .catch() methods to handle Promise resolution and rejection.
+
+**Question 144:** Explain the use of the Promise.all() method with an example.
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
