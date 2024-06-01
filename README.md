@@ -727,6 +727,18 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 50
+
+**Date**: [2024-07-7]
+
+**Question 148:** Demonstrate the use of the setTimeout() function to execute code after a delay.
+
+**Question 149:** Explain the concept of the event loop in JavaScript with an example.
+
+**Question 150:** Describe how asynchronous callbacks differ from synchronous code execution.
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
