@@ -715,6 +715,18 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 49
+
+**Date**: [2024-07-6]
+
+**Question 145:** Create a function that accepts a callback and invokes it with some arguments.
+
+**Question 146:** Show an example of a callback function used to filter an array of numbers.
+
+**Question 147:** Explain how to handle errors in a callback pattern.
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
