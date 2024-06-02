@@ -752,7 +752,6 @@ Read the following article:
 
 **Date**: [2024-07-9]
 
-**Day-52 Task:**
 Read the following article:
 [An Introduction to JavaScript](https://javascript.info/intro)
 
@@ -760,6 +759,17 @@ Let’s see what’s so special about JavaScript, what we can achieve with it, a
 
 ...
 
+
+### Day 53
+
+**Date**: [2024-07-10]
+
+Watch the following video to learn about Chrome DevTools:
+[Fun & powerful: Intro to Chrome DevTools](https://www.youtube.com/watch?v=t1c5tNPpXjs&t=23s)
+
+Chrome DevTools is a set of web developer tools built directly into the Google Chrome browser. DevTools can help you edit pages on-the-fly and diagnose problems quickly, which ultimately helps you build better websites, faster, watch the video to learn more about Chrome DevTools.
+
+...
 
 ## How to Contribute
 
