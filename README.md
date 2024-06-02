@@ -771,6 +771,18 @@ Chrome DevTools is a set of web developer tools built directly into the Google C
 
 ...
 
+
+### Day 54
+
+**Date**: [2024-07-11]
+
+Read the following Articles and Code along with it:
+
+[Hello World](https://javascript.info/hello-world)
+
+[Variables](https://javascript.info/variables)
+
+...
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
