@@ -739,6 +739,16 @@ Call your function with at least three city-country pairs, and print the value t
 
 ...
 
+### Day 51
+
+**Date**: [2024-07-8]
+
+Read the following article: 
+[Top 10 Programming Tips For Beginners](https://www.geeksforgeeks.org/programming-tips-for-beginners/);
+
+...
+
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
