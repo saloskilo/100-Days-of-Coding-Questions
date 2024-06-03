@@ -821,6 +821,17 @@ Read the following Articles and Code along with it:
 
 ...
 
+### Day 58
+
+**Date**: [2024-07-15]
+
+Read the following Articles and Code along with it:
+
+[Logical Operators in JavaScript](https://javascript.info/logical-operators)
+
+[Nullish Coalescing Operator '??' in JavaScript](https://javascript.info/nullish-coalescing-operator)
+
+...
 
 ## How to Contribute
 
