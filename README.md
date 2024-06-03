@@ -845,6 +845,17 @@ Read the following Articles and Code along with it:
 
 ...
 
+### Day 60
+
+**Date**: [2024-07-17]
+
+Read the following Articles and Code along with it:
+
+[Functions in JavaScript](https://javascript.info/function-basics)
+
+[Function Expressions in JavaScript](https://javascript.info/function-expressions)
+
+...
 
 ## How to Contribute
 
