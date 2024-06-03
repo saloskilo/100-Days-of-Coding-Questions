@@ -833,6 +833,19 @@ Read the following Articles and Code along with it:
 
 ...
 
+### Day 59
+
+**Date**: [2024-07-16]
+
+Read the following Articles and Code along with it:
+
+[Loops: while and for in JavaScript](https://javascript.info/while-for)
+
+[The "switch" statement in JavaScript](https://javascript.info/switch)
+
+...
+
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
