@@ -869,6 +869,18 @@ Read the following Articles and Code along with it:
 
 ...
 
+### Day 62
+
+**Date**: [2024-07-19]
+
+First understand what typescript is, and why we need it, then setup typescript using the following guides:
+
+[TypeScript Introduction in Simple Words](./TS-Intro%20&%20Setup/typescript-intro.md)
+
+[Setup TypeScript | Step-by-Step](./TS-Intro%20&%20Setup/typescript-setup.md)
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
