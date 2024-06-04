@@ -857,6 +857,18 @@ Read the following Articles and Code along with it:
 
 ...
 
+### Day 61
+
+**Date**: [2024-07-18]
+
+Read the following Articles and Code along with it:
+
+[Arrow functions Basics in JavaScript](https://javascript.info/arrow-functions-basics)
+
+[JavaScript specials in JavaScript](https://javascript.info/javascript-specials)
+
+...
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
