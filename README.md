@@ -881,6 +881,17 @@ First understand what typescript is, and why we need it, then setup typescript u
 
 ...
 
+### Day 63
+
+**Date**: [2024-07-20]
+
+Learn about TypeScript types by using the following guide and coding along with the examples provided in it:
+
+[Multiple Types in TypeScript](./TS-Types/README.md)
+
+...
+
+
 ## How to Contribute
 
 If you have suggestions for questions to solve or improvements to my solutions, feel free to create an issue or submit a pull request. Let's learn and grow together!
