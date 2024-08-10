@@ -29,3 +29,83 @@ setTimeout(function () {
   console.log("Asynchronous operation completed");
 }, 1000);
 console.log("After asynchronous operation setup");
+
+
+
+
+
+
+
+
+// YT Practice
+console.log("Start");
+setTimeout(() => {
+    for (let index = 1; index < 10; index++) {
+
+        console.log(index);
+
+    }
+}, 2000);
+console.log("end");
+const [a] = [10, 20, 49];
+console.log(a);
+var x = 20;
+function foooo() {
+    console.log(x);
+    // var x=10;
+
+}
+foooo();
+const arr = ["salman", "ali", "khan"];
+
+let newValue = document.querySelector("#hello");
+
+let value = 0;  // Corrected to 'let' to be consistent with reassignment
+
+function fooo() {
+    // Displaying the whole string at the current index
+    newValue.innerText = arr[value];
+    value++;
+
+    // Resetting the value to 0 after reaching the end of the array
+    if (value >= arr.length) {
+        value = 0;
+    }
+}
+
+newValue.addEventListener("click", () => {
+    fooo();
+});
+
+let dev = document.querySelector(".container");
+let data = [];
+const foo = async () => {
+    try {
+        let url = "https://jsonplaceholder.typicode.com/users";
+
+        let res = await fetch(url);
+        let dataa = await res.json();
+        data = dataa;
+
+        data.forEach((user) => {
+            console.log(user);
+            let div1 = document.createElement("div");
+            div1.textContent = user.id;
+            dev.appendChild(div1);
+        });
+
+        // console.log(data);
+    } catch (error) {
+        console.log(error);
+    }
+};
+
+foo();
+
+
+console.log(4 + true);
+
+console.log(1 < 2 < 3 < 4 > 5);
+console.log(true > false);
+
+
