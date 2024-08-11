@@ -108,4 +108,16 @@ console.log(4 + true);
 console.log(1 < 2 < 3 < 4 > 5);
 console.log(true > false);
 
+const h1Tag = document.querySelector('#h1Tag');
 
+
+h1Tag.addEventListener('click', function changeValue() {
+    let count = 1;
+    setInterval(() => {
+
+        if (count <= 5) {
+            h1Tag.innerHTML = count++;
+
+        } 
+    }, 1000);
+})
