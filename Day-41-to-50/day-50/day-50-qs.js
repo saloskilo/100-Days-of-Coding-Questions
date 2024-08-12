@@ -121,3 +121,28 @@ h1Tag.addEventListener('click', function changeValue() {
         } 
     }, 1000);
 })
+
+
+
+// YT INTERVIEW 
+let dataa=[];
+async function fetchingData() {
+    let response = await fetch('https://jsonplaceholder.typicode.com/photos');
+    let data = await response.json();
+    dataa=data;
+    console.log(data);
+    namee();
+
+
+}
+function namee() {
+    dataa.forEach((currElement )=> {
+        
+    
+       let mainDiv= document.createElement('div');
+       let imgCont= document.createElement('div');
+       imgCont.innerHTML=currElement.albumId[0]      ;
+    mainDiv.appendChild(imgCont);
+    });
+}
+fetchingData();
