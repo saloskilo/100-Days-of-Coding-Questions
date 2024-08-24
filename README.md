@@ -891,6 +891,8 @@ Learn about TypeScript types by using the following guide and coding along with 
 
 ...
 
+added YT practice Questions
+
 
 ## How to Contribute
 
@@ -906,3 +908,4 @@ Thank you for visiting my 100 Days of Coding challenge repository! I am excited 
 ```
 
 Feel free to customize the content to better suit your specific preferences and needs. This template provides a structured way to document your daily progress and solutions.
+
