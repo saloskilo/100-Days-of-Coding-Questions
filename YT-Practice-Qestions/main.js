@@ -258,12 +258,12 @@ console.log("<---------- Next Question ---------->");
 
 
 // Q17 : frequent element of an array 
-let url = 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=61116340b4b54c769d6d62c1c3f928ee';
+// let url = 'https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=61116340b4b54c769d6d62c1c3f928ee';
 
-async function fetchData() {
-    let response = await fetch(url);
-    let data = await response.json();
-    console.log(data);
+// async function fetchData() {
+//     let response = await fetch(url);
+//     let data = await response.json();
+//     console.log(data);
 
-}
-fetchData();
+// }
+// fetchData(); 
