@@ -266,4 +266,24 @@ async function fetchData() {
     console.log(data);
 
 }
-fetchData(); 
+fetchData();
+
+// api for car data
+const url2 = 'https://car-data.p.rapidapi.com/cars?limit=10&page=0';
+const options2 = {
+    method: 'GET',
+    headers: {
+        'x-rapidapi-key': 'e056c081bemsh9611d6ee775aff1p1219a7jsn6d588025a271',
+        'x-rapidapi-host': 'car-data.p.rapidapi.com'
+    }
+};
+const carData = async () => {
+    try {
+        const response = await fetch(url2, options2);
+        const result = await response.json();
+        console.log(result);
+    } catch (error) {
+        console.error(error);
+    }
+}
+carData();
