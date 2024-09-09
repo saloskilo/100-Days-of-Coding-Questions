@@ -287,3 +287,17 @@ const carData = async () => {
     }
 }
 carData();
+
+
+var dataTypee = function typeTeller(args) {
+    return typeof args;
+};
+console.log(dataType(2));
+console.log(dataType("salman"));
+console.log(dataType([1]));
+console.log(dataType({}));
+console.log(dataType(true));
+console.log(dataType(NaN));
+console.log(dataType(undefined));
+console.log(dataType(dataType));
+console.log("<---------- Next Question ---------->");
